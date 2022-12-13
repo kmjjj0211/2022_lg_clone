@@ -1007,8 +1007,8 @@ div.ad-1>p{font-size: 18px; font-weight: bold; text-align: center; padding-top: 
 .header_down>ul.brandLink>li{padding: 0 8px;}
 
 /* 제품소모품 외 gnb */
-.header_down>nav.gnb>ul>li>div.gnb_area>h2{font-size: 20px; font-weight: bold; position: absolute; left: 0px; top: 100px;}
-.header_down>nav.gnb>ul>li>div.gnb_area>div{position: absolute; top: 130px; left: 0px;}
+.header_down>nav.gnb>ul>li>div.gnb_area>h2{font-size: 20px; font-weight: bold; position: absolute; left: 250px; top: 100px;}
+.header_down>nav.gnb>ul>li>div.gnb_area>div{position: absolute; top: 130px; left: 250px;}
 .header_down>nav.gnb>ul>li>div.gnb_area>div>div.section{float: left; width: 350px;}
 .header_down>nav.gnb>ul>li>div.gnb_area>div>div.section>dl{margin-bottom: 30px;}
 .header_down>nav.gnb>ul>li>div.gnb_area>div>div.section>dl>dt{font-size: 16px; font-weight: bold;margin: 30px 0;}
